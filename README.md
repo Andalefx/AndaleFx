@@ -1,4 +1,4 @@
-### Hello I'm Ado
+### Hello I'm Ado <img src = "https://cdn.discordapp.com/emojis/625936333248004096.png?v=1" high="20px" width="30px">
 ![version :17.08.2021](https://img.shields.io/badge/version-17.08.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=Adofx&color=red)&nbsp;
 [![GitHub Adofx](https://img.shields.io/github/followers/Adofx?label=follow&style=social)](https://github.com/Adofx)&nbsp;
