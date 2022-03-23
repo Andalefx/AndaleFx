@@ -7,3 +7,8 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/770723156796243990?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/770723156796243990)
 ## Kullandığım şeyler:
 <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>  <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/> <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/> <img src='https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B'/> <img src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white'/> <img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white'/> <img src='https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white'/> <img src='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white'/> <img src='https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white'/> <img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'/> <img src='https://img.shields.io/badge/Tailwind%20CSS-white?style=for-the-badge&logo=tailwindcss&logoColor=00b6d2'/>
+## Geliştiriciliğimi devam ettirdiğim sunucular:
+- [!](https://discord.gg/blindcord) - <code>Başlangıç: 07.01.2022</code>
+- [⟐ Herakles Krallığı#Yeniden](https://discord.gg/BnyDsJuGJP) - <code>Başlangıç: 15.11.2021</code>
+- [Discord Türkiye](https://discord.gg/turkiye) - <code>Başlangıç: 04.11.2021</code>
+</code>
