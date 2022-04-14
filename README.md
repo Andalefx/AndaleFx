@@ -1,8 +1,8 @@
 <p align="center">
-    <a href="https://This-null.github.io">
+    <a href="https://Andalefx.github.io">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Created+By+This+Andale+🌐"
-            alt="null Official"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Created+By+This+Andale"
+            alt="Andale Official"
         />
     </a>
 </p>
