@@ -1,11 +1,4 @@
-<p align="center">
-    <a href="https://Andalefx.github.io">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Created+By+This+Andale"
-            alt="Andale Official"
-        />
-    </a>
-</p>
+
 ### Hello I'm Andale <img src = "https://cdn.discordapp.com/emojis/625936333248004096.png?v=1" high="20px" width="30px">
 ![version :17.08.2021](https://img.shields.io/badge/version-17.08.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=AndaleFx&color=red)&nbsp;
