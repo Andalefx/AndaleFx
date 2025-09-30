@@ -29,3 +29,7 @@
    <a href="https://github.com/Andalefx" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
    <a href="https://www.instagram.com/andalefx" target="_blank"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/vOeYW3AmpF2zC/giphy.gif" alt="Anime Girl Looking GIF" width="300"/>
+</p>
