@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Flofi-girl-student-studying-desk-with-book-rainy-rain-anime-manga-style-wallpaper-background_357278289.htm&psig=AOvVaw0pxQA_llG3HfcmRvHPbbQR&ust=1759309971182000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLCevcGSgJADFQAAAAAdAAAAABAL" width="300"/>
+  <img src="https://cdn.discordapp.com/attachments/1397608124067741699/1422514018932752394/c6bf841e3c00072e01d6872e3e0dd142.gif?ex=68dcf2eb&is=68dba16b&hm=999e7f0e74552a18a3b63d408251fa2055110e8e3926485049acd0284d7c1e5f&" width="300"/>
   <br/>
   <b>Sen mi geldin? 👀</b>
 </p>
