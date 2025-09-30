@@ -1,5 +1,5 @@
 
-### Hello I'm Andale <img src = "https://cdn.discordapp.com/emojis/625936333248004096.png?v=1" high="20px" width="30px">
+### Hello I'm Andale <img src = "https://cdn.discordapp.com/emojis/1397610243998875819.webp?size=96" high="20px" width="30px">
 ![profile count](https://komarev.com/ghpvc/?username=AndaleFx&color=red)&nbsp;
 [![GitHub Andalefx](https://img.shields.io/github/followers/AndaleFx?label=follow&style=social)](https://github.com/AndaleFx)&nbsp;
 
