@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="300"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Flofi-girl-student-studying-desk-with-book-rainy-rain-anime-manga-style-wallpaper-background_357278289.htm&psig=AOvVaw0pxQA_llG3HfcmRvHPbbQR&ust=1759309971182000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLCevcGSgJADFQAAAAAdAAAAABAL" width="300"/>
   <br/>
   <b>Sen mi geldin? 👀</b>
 </p>
