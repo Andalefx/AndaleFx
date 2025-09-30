@@ -31,5 +31,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/vOeYW3AmpF2zC/giphy.gif" alt="Anime Girl Looking GIF" width="300"/>
+  <img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif" alt="Cute Anime Girl Looking" width="300"/>
 </p>
+
