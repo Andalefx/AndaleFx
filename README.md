@@ -31,6 +31,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif" alt="Cute Anime Girl Looking" width="300"/>
+  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="300"/>
+  <br/>
+  <b>Sen mi geldin? 👀</b>
 </p>
 
