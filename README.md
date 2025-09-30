@@ -11,6 +11,6 @@
 # İletişim
 <p align="center">
    <a href="https://discord.com/users/1397360217859297321" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-   <a href="https://sptfy.com/kahverella" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-   <a href="https://github.com/Kahverella" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+   <a href="https://sptfy.com/andale" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+   <a href="https://github.com/Andalefx" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
