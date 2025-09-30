@@ -21,7 +21,7 @@
   <img src='https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4'/>
   <img src='https://img.shields.io/badge/Windows_11-0D1117?style=for-the-badge&logo=windows-11&logoColor=white'/>
 </p>
-## İletişim
+## İletişim:
 <p align="center">
    <a href="https://discord.com/users/1397360217859297321" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://sptfy.com/andale" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
