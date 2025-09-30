@@ -1,9 +1,7 @@
 
 ### Hello I'm Andale <img src = "https://cdn.discordapp.com/emojis/625936333248004096.png?v=1" high="20px" width="30px">
-![version :27.09.2025](https://img.shields.io/badge/version-17.08.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=AndaleFx&color=red)&nbsp;
 [![GitHub Andalefx](https://img.shields.io/github/followers/AndaleFx?label=follow&style=social)](https://github.com/AndaleFx)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1397360217859297321)](https://discord.com/users/1397360217859297321)
