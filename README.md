@@ -26,9 +26,9 @@
 
 ## 💻 En Çok Kullandığım Diller
 
-<div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andalefx&layout=compact&theme=dark)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andalefx&layout=compact&theme=dark" alt="Andale'nin En Çok Kullanılan Dilleri" />
+</p>
 
 ---
 
