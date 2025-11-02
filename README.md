@@ -30,9 +30,3 @@
    <a href="https://www.instagram.com/andalefx" target="_blank"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
 </p>
 
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1397608124067741699/1422514018932752394/c6bf841e3c00072e01d6872e3e0dd142.gif?ex=68dcf2eb&is=68dba16b&hm=999e7f0e74552a18a3b63d408251fa2055110e8e3926485049acd0284d7c1e5f&" width="300"/>
-  <br/>
-  <b>Sen mi geldin? 👀</b>
-</p>
-
