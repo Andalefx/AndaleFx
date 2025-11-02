@@ -24,11 +24,17 @@
 
 ---
 
-## 💻 En Çok Kullandığım Diller
+## 📈 GitHub İstatistiklerim
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andalefx&layout=compact&theme=dark" alt="Andale'nin En Çok Kullanılan Dilleri" />
-</p>
+<div align="center">
+  <a href="https://github.com/AndaleFx/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Andalefx&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Andale'nin GitHub İstatistikleri" height="195px"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/AndaleFx/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andalefx&layout=compact&theme=dark" alt="Andale'nin En Çok Kullanılan Dilleri" height="195px"/>
+  </a>
+</div>
 
 ---
 
