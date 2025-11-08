@@ -8,6 +8,12 @@
 [![En Çok Kullanılan Dil](https://img.shields.io/github/languages/top/Andalefx/REPO_ADINIZ?color=blue&label=En%20Pop%C3%BCler%20Dil&style=social)](https://github.com/Andalefx)&nbsp;
 [![Toplam Yıldız](https://img.shields.io/github/stars/Andalefx?style=social)](https://github.com/Andalefx)
 
+
+## 🏆 GitHub Başarımlarım
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Andalefx&theme=radical&no-frame=true&no-bg=true" alt="Andale'nin GitHub Başarımları" />
+</div>
 </div>
 <br>
  
