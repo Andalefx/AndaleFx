@@ -1,19 +1,24 @@
 <div align="center">
 
-### Merhaba, ben Andale! <img src = "https://cdn.discordapp.com/emojis/1397610243998875819.webp?size=96" high="20px" width="30px">
+### Merhaba, ben Andale! 👋
+<img src = "https://cdn.discordapp.com/emojis/1397610243998875819.webp?size=96" high="20px" width="30px">
 
-[![GitHub Andalefx](https://img.shields.io/github/followers/Andalefx?label=follow&style=social)](https://github.com/Andalefx)&nbsp;
+[![GitHub Andalefx](https://img.shields.io/github/followers/AndaleFx?label=follow&style=social)](https://github.com/Andalefx)&nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=AndaleFx&color=red)&nbsp;
 [![En Çok Kullanılan Dil](https://img.shields.io/github/languages/top/Andalefx/REPO_ADINIZ?color=blue&label=En%20Pop%C3%BCler%20Dil&style=social)](https://github.com/Andalefx)&nbsp;
 [![Toplam Yıldız](https://img.shields.io/github/stars/Andalefx?style=social)](https://github.com/Andalefx)
+
 </div>
 
+---
+
+> **Çözüm Odaklı Geliştirici** | Performans ve ölçeklenebilirlik temelli yazılımlar tasarlıyorum. Şu anki odak noktam **Node.js** ve **TypeScript** ile tam yığın (full-stack) uygulamalar geliştirmek. İşbirliğine ve açık kaynak projelere her zaman açığım!
 
 <br>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1397360217859297321)](https://discord.com/users/1397360217859297321)
 
-
+---
 
 ## 🛠️ Kullandığım Teknolojiler
 
@@ -61,7 +66,7 @@
 </div> 
 
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andalefx&theme=dark&hide_border=true&card_width=490)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Andalefx&theme=dark&hide_border=true&card_width=490)](https://git.io/streak-stats)
 </p>
 
 <br>
