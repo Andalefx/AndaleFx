@@ -9,17 +9,8 @@
 [![Toplam Yıldız](https://img.shields.io/github/stars/Andalefx?style=social)](https://github.com/Andalefx)
 
 </div>
-
-
-
-> **Çözüm Odaklı Geliştirici** | Performans ve ölçeklenebilirlik temelli yazılımlar tasarlıyorum. Şu anki odak noktam **Node.js** ve **TypeScript** ile tam yığın (full-stack) uygulamalar geliştirmek. İşbirliğine ve açık kaynak projelere her zaman açığım!
-
 <br>
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/1397360217859297321)](https://discord.com/users/1397360217859297321)
-
-
-
 ## 🛠️ Kullandığım Teknolojiler
 
 ### Diller & Frontend
