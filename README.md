@@ -1,7 +1,6 @@
 <div align="center">
 
-### Merhaba, ben Andale! 👋
-<img src = "https://cdn.discordapp.com/emojis/1397610243998875819.webp?size=96" high="20px" width="30px">
+### Merhaba, ben Andale! <img src = "https://cdn.discordapp.com/emojis/1397610243998875819.webp?size=96" high="20px" width="30px">
 
 [![GitHub Andalefx](https://img.shields.io/github/followers/AndaleFx?label=follow&style=social)](https://github.com/Andalefx)&nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=AndaleFx&color=red)
