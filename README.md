@@ -61,10 +61,11 @@
   <a href="https://github.com/AndaleFx/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andalefx&layout=compact&theme=dark" alt="Andale'nin En Çok Kullanılan Dilleri" height="195px"/>
   </a>
-  
-  <br>
+</div> 
+
+<p align="center">
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Andalefx&theme=dark&hide_border=true)](https://git.io/streak-stats)
-</div>
+</p>
 
 <br>
 
