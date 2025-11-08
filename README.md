@@ -66,15 +66,6 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Andalefx&theme=dark)](https://git.io/streak-stats)
 </div>
 
----
-
-## 🏆 Favori Projelerim
-
-* **[Proje Adı 1]**: Bu projede [Kullanılan Ana Teknoloji] kullanarak [Projenin Amacı]'nı gerçekleştirdim. 
-    * *Repo:* [Link] | *Canlı Demo (varsa):* [Link]
-* **[Proje Adı 2]**: [Kullanılan Ana Teknoloji] ile geliştirilen, [Kısa Açıklama].
-    * *Repo:* [Link]
-
 <br>
 
 <div align="center">
