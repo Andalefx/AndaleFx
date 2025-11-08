@@ -20,8 +20,6 @@
 
 ## 🛠️ Kullandığım Teknolojiler
 
-Bu bölümü daha okunaklı hale getirmek için rozetleri tematik olarak ayırdım.
-
 ### Diller & Frontend
 <p align="center">
   <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0D1117'/>
