@@ -10,7 +10,7 @@
 
 </div>
 
----
+
 
 > **Çözüm Odaklı Geliştirici** | Performans ve ölçeklenebilirlik temelli yazılımlar tasarlıyorum. Şu anki odak noktam **Node.js** ve **TypeScript** ile tam yığın (full-stack) uygulamalar geliştirmek. İşbirliğine ve açık kaynak projelere her zaman açığım!
 
@@ -18,7 +18,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1397360217859297321)](https://discord.com/users/1397360217859297321)
 
----
+
 
 ## 🛠️ Kullandığım Teknolojiler
 
@@ -51,7 +51,7 @@
   <img src='https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white'/>
 </p>
 
----
+
 
 ## 📈 GitHub İstatistiklerim
 
@@ -70,7 +70,7 @@
 
 <br>
 
----
+
 
 ## 📫 Bana Ulaşın
 
